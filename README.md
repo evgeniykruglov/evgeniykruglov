@@ -1,4 +1,4 @@
-### ✨ Automation Test Enginner in Kotlin ✨
+### ✨ Automation Test Engineer in Kotlin ✨
 
 <!--
 **evgeniykruglov/evgeniykruglov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
